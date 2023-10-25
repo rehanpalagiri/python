@@ -21,3 +21,9 @@ def div (a,b):
     return a/b
 s = div (1,2)
 print("1/2",s)
+
+
+def rem (a,b):
+    return a % b
+s = rem (10,2)
+print("10 % 2 is: ",s)
