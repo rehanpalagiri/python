@@ -26,4 +26,7 @@ def printEvenNumbers(n):
         if index%2==0:
             print (index)
         index= index +1 
+print("even numbers till 5 are: ")
 printEvenNumbers(5)
+print("even numbers till 10 are: ")
+printEvenNumbers(10)
